@@ -13,4 +13,4 @@
 
 ##4주차 (2022-03-29)
 -
-<img width="" height="" src="./pic/4st.PNG"></img>
+<img width="" height="" src="./pic/3st.PNG"></img>
