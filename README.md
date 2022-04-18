@@ -21,3 +21,8 @@
 <img width="" height="" src="./pic/5st사진2.PNG"></img>
 <img width="" height="" src="./pic/소스파일1.PNG"></img>
 <img width="" height="" src="./pic/소스파일2.PNG"></img>
+
+##6주차 (2022-04-12)
+-
+<img width="" height="" src="./pic/6st-1.PNG"></img>
+<img width="" height="" src="./pic/6st-2.PNG"></img>
