@@ -37,5 +37,5 @@
 
 </img> <img width="" height="" src="./pic/기본.png"></img>
 <img width="" height="" src="./pic/메뉴.png"></img>
-<img width="" height="" src="./pic/요청코드.png"></img>
+<img width="" height="" src="./pic/요청코드1.png"></img>
 <img width="" height="" src="./pic/mike.png"></img>
