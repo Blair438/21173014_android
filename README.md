@@ -31,3 +31,9 @@
 #높이
 
 <img width="" height="" src="./pic/6st높이.png"></img>
+
+##10주차 (2022-05-16)
+<img width="" height="" src="./pic/mike.PNG"></img>
+<img width="" height="" src="./pic/메뉴.PNG"></img>
+<img width="" height="" src="./pic/요청코드.PNG"></img>
+<img width="" height="" src="./pic/기본.PNG"></img>
